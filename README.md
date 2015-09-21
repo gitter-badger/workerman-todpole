@@ -1,6 +1,8 @@
 workerman-todpole
 =================
 
+[![Join the chat at https://gitter.im/Luxurioust/workerman-todpole](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Luxurioust/workerman-todpole?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 蝌蚪游泳交互程序-HTLM5+WebSocket+Workerman , rumpetroll server writen using php
 
 [线上DEMO](http://kedou.workerman.net)
